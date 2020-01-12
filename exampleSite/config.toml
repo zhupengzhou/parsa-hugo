@@ -29,7 +29,7 @@ layout = "1"
 logo = "images/logo.png"
 mobile = "+90 000 333 22"
 [params.instafeed]
-access_token = "dd4c0e7c90625d517636619c23d57ad3"
+access_token = "AQCnfwz-nWOlPJmC9ZcARca7mKqXbGquplctVHpdRiuBsfAQO7vTwYKKfwp5ti5q3v9o3RGIt_Jrgel9Ie4ds0Z3rzk1IFbi17Ce9EDvdkdT_uz4nD5A1Nvq_wCyihqLPyk-8Xhf5PKHTcKp8_-eLcHqNWrGTtKSf5mSR33DCtdTWl5Twa5xWfMKjJXhxFyho6xIC29sSfwHQKwYL-I6z1yPswThtB1k2GtU58Iy7to1qw"
 enable = true
 user_id = "633937037353857"
 [[params.plugins.css]]
