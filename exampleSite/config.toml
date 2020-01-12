@@ -29,9 +29,9 @@ layout = "1"
 logo = "images/logo.png"
 mobile = "+90 000 333 22"
 [params.instafeed]
-access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+access_token = "dd4c0e7c90625d517636619c23d57ad3"
 enable = true
-user_id = "4044026246"
+user_id = "633937037353857"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
